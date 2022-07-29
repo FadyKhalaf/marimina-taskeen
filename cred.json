@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marimina-tasken",
+  "private_key_id": "5053d09acf08bbcdefb865d0ba47a2881069ce6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvWcc65b3D9XXH\n1Hfn47GjD1vZIIp9VHQ8aa1gFT1D+pVnfH+ny4HYeUTtW53aRnRNcJcxuZsbF1l7\nc5bDnEN5OAfln9z1VHJvNpgkEREjgQpX+0del0KwYgawB5sLnN+2+vpZstjWhMAP\nxp6RuhKXe7WbGhSw3PCAXfEeMpehFHUBwf7SEAA3unpY58oqUTzacWFMUQf17q+w\nthYAq/L+kXvmoyBpREAtWtnjzLjfNhaMqP2E8rHMK3w3uoVQM/S4bhztQ697j+Za\njI1COJBJTUzOP/Rcc11RMqns/oa/FUjqSx6oWlrg7iByWQAgaKUTO+9rg9dplrV8\nqJbYZhdRAgMBAAECggEAH4/hFraaDt7MdazGbWCUTYWa8mzTSKZOKr6ZxKDmD2mY\nAVHNN3Jfu4tubuvN8Kc8UWEJ8dsW8kwkYN5oHWrv0S6W60u4TZdG5sI0pc9Fnrag\nGkCCMuI2kIGAcyhXTcKNmQW5ULJqqcgout41FgVgSdBsWo/Z+BC4oF5oY1dXaBh2\naPaGWTq9RRk7q+frIbzzsdyClSHuj8j8/YGREuayN1yDJdar02JE7xXsazTt6FaD\no8hggGLOMugZcnyFXkZzDn/GKtz6INrmGk/HHvY3sVk4ld/l9twdmeleU81eyZwZ\njvujKvlSf7MH0klkgD0pV8gr2By7sKz2pA7+ivxLPQKBgQDf0kD5GA7LoXoBbiVn\nMO3HNHqdIGH/rYPIVxoO/48R7zHVO3LWELdpnd30w5k7cTZjslw60e5jBjf8yncy\n44gr/fsWFBmHGWr+QR0KQQREZeUGk4B6s1fV+attS8t4dbiRstHtE+jfP8WsLgnA\nCBHT3GMpl1bF6bnYY1QsCqsDFQKBgQDIj5AkSyI4JORyA0ks/jGS8F6cVbhiCtOn\nAnx/kcg2X8Hy/0l+VjnattCMy+zpxo4FBSvhrae+AbeHKWFh04wIVmLNEHJon9eC\nDux0uaKdPzlgzoQUtB0x9J4UBv4wMM8bky5XQdiuWgNvk+mgGd2W0kIxJ4aN/Qvb\nhQhtFTACTQKBgCS9mNjK8DLREPwHHrCvwXh/ztjYJf4Yd5d9ZNOtc8jX4PBFz/X/\nzHvT5El3ikHNtcXr02P8bgtnS+19Ns/ttb6y9HKNXhtlOsD940x5m7+2kj/gGqkJ\no5OGZnOMi5v8hw2zsu4d5I4xI7u92u/g4zxJ4yVCqIXYdh9lPr30Clp5AoGBAKzl\nXjx7bN97plhHTuDzrWbfwqABIbebX8R81zjeQvvk5v0FaKT5zlwm93g5IF6T5cCc\nKa0emBmrvzxMxv+fb/uMBRaE1Cwvh4g+N0eU9IOcimlS/vgeIYD8QP5A3QZMPW6n\nHe7o+9OqE4Yvu9piEe3ACoH3cf6bo4o1kAMBneaNAoGBAKz8yBWyUj95//gVW/3C\n/NQhocs5K1ftlY/MatM6xmXnuAXeOWfGDUrZc4kBO6EFFgEA3ST7wBmzIRzUDgne\nqDRCcx7sZEy1SMlqmbDSFOuJq7kE4arOHItMjOPOWmVT0tNc/gWx7MXfLoE3Ax4l\ncUPsFEkYkEaZKq3GtcvEFYl9\n-----END PRIVATE KEY-----\n",
+  "client_email": "marimina-tasken@marimina-tasken.iam.gserviceaccount.com",
+  "client_id": "105156987634678779139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marimina-tasken%40marimina-tasken.iam.gserviceaccount.com"
+}
